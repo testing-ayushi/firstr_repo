@@ -1,1 +1,2 @@
-# firstr_repo
+# first_repo
+By Ayushi Sharma
